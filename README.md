@@ -1,5 +1,29 @@
 # LITA CLASSWORK
 ## Project Title: HR Analytics: Analyzing Employee Attrition Trends and Workforce Insights
+---
+
+## Table of Content
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tool](#tool)
+
+[Analysis Workflow](#analysis-workflow)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[Findings](#findings)
+
+[Insights](#insights)
+
+[Recommendations](#recommendations)
+
+[References](#references)
 
 ### Project Overview
 This project presents the results employee analysis aimed at addressing the issue of attrition and low employee retention. The analysis aims to generate insight into the employee data, by analyzing various parameters in the data received to uncover key insights such as total number of employee, attrition rate, and attrition count trend using departments and age group. I seek to gather enough insight to identify trends, make data-driven recommendations and gain a deeper understanding of the company's employee attrition and retention rate.
