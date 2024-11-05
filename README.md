@@ -26,6 +26,7 @@
 [References](#references)
 
 ### Project Overview
+---
 This project presents the results employee analysis aimed at addressing the issue of attrition and low employee retention. The analysis aims to generate insight into the employee data, by analyzing various parameters in the data received to uncover key insights such as total number of employee, attrition rate, and attrition count trend using departments and age group. I seek to gather enough insight to identify trends, make data-driven recommendations and gain a deeper understanding of the company's employee attrition and retention rate.
 
 ### Data Sources
@@ -33,9 +34,11 @@ This project presents the results employee analysis aimed at addressing the issu
 The primary source of data used here is HR Data. This dataset was given to me by Incubator Hub and similar dataset can also be gotten from any open data source online.
 
 ### Tools
+---
 - Power BI
   
 ### Analysis Workflow
+---
  - Power BI Dashboard Development:
      - Data Import: Importing the raw data into PowerBi
      - Data Transformation: Data cleaning and creating promoted headers, calculated columns, and new measures
@@ -73,6 +76,7 @@ I also created calculated columns for Attrition Count, Age sort, and Job Satisfa
 
 
 ### Findings
+---
 1. The total number of employees is 1,470
 2. The total number of current employees is 1,233
 3. The attrition count is 273, which makes up 16% of the total employees.
@@ -83,6 +87,7 @@ I also created calculated columns for Attrition Count, Age sort, and Job Satisfa
 8. Out of the 1,233 current employess, 294 employees are divorced, 589 employees are married, and 350 employees are single.
 
  ### Insights
+ ---
  From the analysis of the HR data, several key insights can be drawn that highlight areas of concern and opportunities for workforce management and retention strategies.
 
   - Overall Workforce Composition and Attrition Rate:
@@ -104,6 +109,7 @@ Of the 1,233 current employees, 589 are married, 350 are single, and 294 are div
 The average age of employees is 37 years, which suggests a mid-career workforce that may be seeking stability and growth opportunities. Retaining this age group requires focusing on leadership development, upskilling, and opportunities for career advancement.
 
 ### Recommendations
+---
 Based on the above analysis, I recommend the follow;
 1. Focus on Retention Programs: Given the relatively high attrition rate of 16%, the company should invest in retention programs that address key pain points, especially for male employees, those in the Laboratory Technician department, and employees in the 34-45 age group.
 2. Targeted Interventions for Specific Departments: The Laboratory Technician department, in particular, should be a focus for internal surveys or interviews to understand the reasons behind high attrition. Offering department-specific solutions may help mitigate future employee loss.
@@ -111,6 +117,7 @@ Based on the above analysis, I recommend the follow;
 4. Enhance Work-Life Balance Initiatives: Addressing issues that impact male employees and those with challenging family dynamics (such as divorce) can be vital. Introducing flexible work policies, mental health support, and better work-life balance programs can help improve retention.
 
 ### References
+---
 During this analysis, I made reference to the following sources to better my analysis
 - [Indeed||16 Reasons Why Employees Choose To Leave Their Jobs](https://www.indeed.com/career-advice/career-development/reasons-employees-leave)
 - [Ladies In Tech Africa Bootcamp||Data Analysis](https://www.youtube.com/live/ZZJiY4Tmtgo?feature=shared)
