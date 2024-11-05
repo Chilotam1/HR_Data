@@ -79,7 +79,7 @@ I also created calculated columns for Attrition Count, Age sort, and Job Satisfa
 ---
 1. The total number of employees is 1,470
 2. The total number of current employees is 1,233
-3. The attrition count is 273, which makes up 16% of the total employees.
+3. The attrition count is 237, which makes up 16% of the total employees.
 4. The average age of total employees is 37 years.
 5. The male gender has the most attrition count with 150 employees, making up 63.29% of the total attrition percentage.
 6. Laboratory Technician department has the most attrition count with 62 employees leaving the company.
@@ -91,7 +91,7 @@ I also created calculated columns for Attrition Count, Age sort, and Job Satisfa
  From the analysis of the HR data, several key insights can be drawn that highlight areas of concern and opportunities for workforce management and retention strategies.
 
   - Overall Workforce Composition and Attrition Rate:
-The organization has a total of 1,470 employees, of which 1,233 are currently employed. This indicates that 273 employees have left the company, resulting in an attrition rate of 16%, which is significant and could potentially affect operational efficiency and morale if not addressed. Some projected reasons that would lead to employee attrition includes relocation, job dissatisfaction, low income, career growth, and needing a better work-life balance. 
+The organization has a total of 1,470 employees, of which 1,233 are currently employed. This indicates that 237 employees have left the company, resulting in an attrition rate of 16%, which is significant and could potentially affect operational efficiency and morale if not addressed. Some projected reasons that would lead to employee attrition includes relocation, job dissatisfaction, low income, career growth, and needing a better work-life balance. 
 
   - Gender Disparity in Attrition:
 A deeper look into the attrition data reveals that male employees are leaving the organization at a higher rate. With 150 males accounting for 63.29% of the total attrition, this could suggest issues that disproportionately affect male employees, such as job satisfaction, career advancement, work-life balance,or department-specific challenges.
