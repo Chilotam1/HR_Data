@@ -2,7 +2,7 @@
 ## Project Title: HR Analytics: Analyzing Employee Attrition Trends and Workforce Insights
 ---
 
-## Table of Content
+### Table of Content
 [Project Overview](#project-overview)
 
 [Data Sources](#data-sources)
